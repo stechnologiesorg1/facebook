@@ -6,3 +6,4 @@ line four from master
 line five from dev branch
 line seven from dev branch
 line eight from dev branch
+line nine from dev branch
